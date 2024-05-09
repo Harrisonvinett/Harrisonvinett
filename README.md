@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harrisonvinett
-- Currnetly Building @witheclipse
+- Co-founder of Eclispe
 
-This a old personal account
+This a personal account that is not very typicallied used, currently using @harrisonwithEclipse and all atention is on that project, rock on.
 
 <!---
 Harrisonvinett/Harrisonvinett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
